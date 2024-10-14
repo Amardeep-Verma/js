@@ -76,3 +76,12 @@ user2.email = "abc@gmail.com"
 console.log(user1.email); 
 console.log(user2.email); 
 
+
+let myname = "Amardeep"; //primitive type stored in stack 
+let nickname = myname; // A copy of the value is created in the Stack 
+nickname = "Rishu"; // Now changing the copy does not affect the original value .
+
+console.log(myName); // output => Amardeep (Original values remains unchanged since we are using stack)
+console.log(nickname); // output => rishu (only the copied value will changed)
+
+
