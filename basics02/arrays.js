@@ -45,7 +45,7 @@ const myn1 = myArr.slice(1,3)
 console.log(myn1);
 console.log("B ",myArr);
 
-// Here in splice method the we are printing from index 1 to 3 index 1 will be included but 3 will not be included and the slice method do not manipulate the array , the array stills remains the same 
+// Here in slice method the we are printing from index 1 to 3 index 1 will be included but 3 will not be included and the slice method do not manipulate the array , the array stills remains the same 
 
 
 console.log("A ", myArr);
