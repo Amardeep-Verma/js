@@ -35,7 +35,7 @@ JsUser.greetingTwo = function(){
 }
 
 JsUser.greetingThree = function(){
-  console.log(`Your current location is = ${this.location}`)
+console.log(`Your current location is = ${this.location}`)
 }
 
 console.log(JsUser.greeting());
