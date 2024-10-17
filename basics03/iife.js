@@ -15,7 +15,7 @@ An IIFE(Immediately Invoked Function Expression) is a Js Function that runs as s
   //...
   }) (); 
 
-  NOTE : if we are using more than one IIFE then we have to use semicolon after the function otherwise it will give error 
+  NOTE : if we are using more than one IIFE then we have to use semicolon after the function otherwise it will throw error 
 
 
   It is a design pattern which is also known as a Self- Executing Annonymous Function and contain two major parts:
